@@ -1,1 +1,0 @@
-# Anarchy.py3
